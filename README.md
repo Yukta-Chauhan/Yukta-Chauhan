@@ -30,13 +30,16 @@
 
 <h2> 📫 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[twitter]: https://twitter.com/Chauhanyuktaa
-[instagram]: https://www.instagram.com/chauhanyuktaa_/
-[linkedin]: https://www.linkedin.com/in/yuktaa-chauhan/
+If the theme is dark:
+![Instagram](https://img.icons8.com/ios-filled/50/000000/instagram-new.png) ![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png) ![Twitter](https://img.icons8.com/ios-filled/50/000000/twitter.png)
+
+If the theme is light:
+![Instagram](https://img.icons8.com/ios/50/ffffff/instagram-new.png) ![LinkedIn](https://img.icons8.com/ios/50/ffffff/linkedin.png) ![Twitter](https://img.icons8.com/ios/50/ffffff/twitter.png) 
+
+[Twitter]: https://twitter.com/Chauhanyuktaa
+[Instagram]: https://www.instagram.com/chauhanyuktaa_/
+[LinkedIn]: https://www.linkedin.com/in/yuktaa-chauhan/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
