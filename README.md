@@ -2,9 +2,9 @@
 
 <h2>🔐 Cyber Security Projects:</h2>
 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- <b>Python</b>
+  - [AI-Image Deepfake Detection: Using DeepLearning Technology](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Directory Brute-Force Tool](https://github.com/Yukta-Chauhan/Directory_Brute-Force_tool)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
