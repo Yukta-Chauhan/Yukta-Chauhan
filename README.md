@@ -30,9 +30,9 @@
 
 <h2> 📫 Connect with me:</h2>
 
-<a href="https://www.instagram.com/your_username"><img src="https://github.com/Yukta-Chauhan/Yukta-Chauhan/assets/60512509/a36abc92-bbff-4c57-bc4f-cbe8e5b22089" width="35"></a>
-<a href="https://www.linkedin.com/in/your_username"><img src="https://github.com/Yukta-Chauhan/Yukta-Chauhan/assets/60512509/324a72df-d602-4afb-b90f-b5194f1692c2" width="37"></a>
-<a href="https://twitter.com/your_username"><img src="https://github.com/Yukta-Chauhan/Yukta-Chauhan/assets/60512509/9482af79-efbb-4d7d-849f-9227b4017372" width="33"></a>
+<a href="https://www.instagram.com/chauhanyuktaa_/"><img src="https://github.com/Yukta-Chauhan/Yukta-Chauhan/assets/60512509/a36abc92-bbff-4c57-bc4f-cbe8e5b22089" width="35"></a>
+<a href="https://www.linkedin.com/in/yuktaa-chauhan/"><img src="https://github.com/Yukta-Chauhan/Yukta-Chauhan/assets/60512509/324a72df-d602-4afb-b90f-b5194f1692c2" width="37"></a>
+<a href="https://twitter.com/Chauhanyuktaa"><img src="https://github.com/Yukta-Chauhan/Yukta-Chauhan/assets/60512509/9482af79-efbb-4d7d-849f-9227b4017372" width="33"></a>
 
 
 <!-- **Yukta-Chauhan/Yukta-Chauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
