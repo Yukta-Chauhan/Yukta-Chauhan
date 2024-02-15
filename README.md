@@ -30,19 +30,12 @@
 
 <h2> 📫 Connect with me:</h2>
 
+<a href="https://www.instagram.com/your_username"><img src="https://github.com/Yukta-Chauhan/Yukta-Chauhan/assets/60512509/a36abc92-bbff-4c57-bc4f-cbe8e5b22089" width="35"></a>
+<a href="https://www.linkedin.com/in/your_username"><img src="https://github.com/Yukta-Chauhan/Yukta-Chauhan/assets/60512509/324a72df-d602-4afb-b90f-b5194f1692c2" width="37"></a>
+<a href="https://twitter.com/your_username"><img src="https://github.com/Yukta-Chauhan/Yukta-Chauhan/assets/60512509/9482af79-efbb-4d7d-849f-9227b4017372" width="33"></a>
 
-If the theme is dark:
-![Instagram](https://img.icons8.com/ios-filled/50/000000/instagram-new.png) ![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png) ![Twitter](https://img.icons8.com/ios-filled/50/000000/twitter.png)
 
-If the theme is light:
-![Instagram](https://img.icons8.com/ios/50/ffffff/instagram-new.png) ![LinkedIn](https://img.icons8.com/ios/50/ffffff/linkedin.png) ![Twitter](https://img.icons8.com/ios/50/ffffff/twitter.png) 
-
-[Twitter]: https://twitter.com/Chauhanyuktaa
-[Instagram]: https://www.instagram.com/chauhanyuktaa_/
-[LinkedIn]: https://www.linkedin.com/in/yuktaa-chauhan/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Yukta-Chauhan/Yukta-Chauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
