@@ -25,7 +25,7 @@
 
 <h2>📃 Certifications</h2>
 
-- [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification) : In Progress...
+- [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification) (**Status**: In Progress 📖)
 
 
 <h2> 📫 Connect with me:</h2>
